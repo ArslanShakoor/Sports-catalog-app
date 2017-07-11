@@ -1,6 +1,6 @@
 # How to Run
 
-##Install VirtualBox
+## Install VirtualBox
 VirtualBox is the software that actually runs the virtual machine. You can download it from virtualbox.org, here. Install the platform package for your operating system.
 
 ## Install Vagrant
