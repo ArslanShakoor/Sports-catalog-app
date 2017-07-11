@@ -1,12 +1,12 @@
-#How to use
+# How to Run
 
 ##Install VirtualBox
 VirtualBox is the software that actually runs the virtual machine. You can download it from virtualbox.org, here. Install the platform package for your operating system.
 
-##Install Vagrant
+## Install Vagrant
 Vagrant is the software that configures the VM and lets you share files between your host computer and the VM's filesystem. Download it from vagrantup.com. Install the version for your operating system.
 
-##VM configuration
+## VM configuration
 Unzip the `fsnd-virtual-machine.zip` file 
 Change to this directory in your terminal with cd. Inside, you will find another directory called `vagrant`. Change directory to the `vagrant` directory and run `vagrant up` command:
 
